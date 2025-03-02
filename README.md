@@ -19,3 +19,7 @@
 
 ## Video Showcase 
 ![Demo](video.gif)
+
+## Disclaimer
+This repository is intended for educational purposes only. The code, scripts, and resources provided here are meant to serve as learning materials and should not be used in production environments, real-world applications, or for any unauthorized activities.
+
