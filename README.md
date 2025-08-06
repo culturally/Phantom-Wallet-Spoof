@@ -1,5 +1,5 @@
 ## Release Date
-- Currently no ETA. I'm kinda sceptical about releasing it to public but potential release date could be around july.
+- Currently no ETA. I'm kinda sceptical about releasing it to public but potential release date could be around september.
 
 
 ## Info
